@@ -11,5 +11,6 @@ age--*.*.*.sql
 !age--*--*sql
 __pycache__
 **/__pycache__
+.vscode/
 
 drivers/python/build
